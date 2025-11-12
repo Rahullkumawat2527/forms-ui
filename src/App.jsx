@@ -1,9 +1,8 @@
-import ContactForm from "./componet/ContactForm";
-import LoginForm from "./componet/LoginForm/LoginForm";
+import ContactForm from "./componet/ContactForm/ContactForm";
 
 const App = () =>{
   return(
-    <LoginForm/>
+    <ContactForm/>
   )
 }
 
